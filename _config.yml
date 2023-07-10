@@ -50,7 +50,7 @@ show_excerpts: true
 # Theme settings
 minima:
   date_format: "%b %-d, %Y %H:%M"
-  skin: dark
+  # skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
