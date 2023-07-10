@@ -26,6 +26,8 @@ author:
   email: ""
 description: >-
   Red City is a role-playing game
+domain: redcity.ink
+url: https://redcity.ink
 
 # Build settings
 theme: minima
