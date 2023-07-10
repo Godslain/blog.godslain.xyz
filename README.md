@@ -1,2 +1,2 @@
-# redcity.io
-Dev blog for Red City
+# redcity.ink
+Blog for the Red City Game. 
