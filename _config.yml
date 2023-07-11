@@ -21,8 +21,8 @@
 # TODO: email address
 # TODO: url
 title: Red City
-author: Demecate
-  name: Red City
+author:
+  name: Demecate
   email: ""
 description: >-
    © 2023 redcity.ink
@@ -38,9 +38,11 @@ plugins:
 
 # Not necessary, but we can control the order this way
 header_pages:
-  - pages/blog.html
+  - pages/devblog.html
   - pages/lore.html
-  - pages/arts.html
+  - pages/map.html
+  - pages/model.html
+  - pages/artwork.html
 
 # TODO: pagination
 show_excerpts: true
