@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Ancient Runes of Ŷlyan"
+title:  "The Ancient Runes of Ûluan"
 date:   2023-07-10 21:56:17 +0100
 author: Demecate
 type:   lore
