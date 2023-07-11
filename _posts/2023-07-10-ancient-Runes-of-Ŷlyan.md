@@ -14,3 +14,4 @@ Below, you will find the complete set of The Forgotten Alphabet, also known as T
 
 
 
+![All letters-with gird](https://github.com/RedCityGame/redcity.ink/assets/130685918/136cbb32-87d2-422a-8afe-d0b0a66a251a)
