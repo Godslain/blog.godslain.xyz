@@ -39,12 +39,12 @@ plugins:
 # Not necessary, but we can control the order this way
 header_pages:
   
-  - pages/lore.html
-  - pages/maps.html
+  - pages/lore.md
+  - pages/maps.md
   - pages/music.md
   - pages/artwork.md
-  - pages/models.html
-  - pages/devblog.html
+  - pages/models.md
+  - pages/devblog.md
 
 # TODO: pagination
 show_excerpts: true
