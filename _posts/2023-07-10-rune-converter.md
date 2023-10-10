@@ -21,9 +21,9 @@ we can write in the runic alphabet or convert the runes to latin when needed. Ho
 
 After designing the runes themselves (and their logic), we had to create a font in order to represent the characters in a digital environment. For this I have used [Calligraphr](https://www.calligraphr.com/) and Adobe Illustrator. Currenty in order to fully utilise the forgotten alphabet you should use a Turkish keyboard layout (or any other layout that has ı, ö, ü). I initially wanted to use different letters but these were far easier to work with. I might change them in the future. 
 
-Currently, all of the runic characters in the font are mapped to numerical keys (for coding convenience) except the space character, which is mapped to the space key. 
+Currently, all of the runic characters in the font are mapped to numerical keys (for coding convenience) except the space character, which is mapped to the space key. You can find these posts on the new [page](https://runes.redcity.ink) and the page should prompt you if you don't have the fonts installed. The converter would not work without the fonts installed.
 
-I have taken the most (seemingly) convenient path for me, but I kind of regret my approach as I realised later on that it was not the cleanest way. I am sure there are much better ways to design fonts --and if that is something you have done and are good at and you'd like to help out, please get in touch.
+I have taken the most (seemingly) convenient path for me, but I kind of regret my approach as I realised later on that it was a very spaghetti way. I am sure there are much better ways to design fonts --and if that is something you have done and are good at and you'd like to help out, please get in touch.
 
 
 # TLDR
