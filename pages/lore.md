@@ -5,7 +5,7 @@ permalink: /lore/
 type: lore
 ---
 
-<h3>The Forgotten Alphabet</h3>
+### The Forgotten Alphabet
 
 The Forgotten Alphabet comprises 40 runic symbols that were used to inscribe stone during the dawn of creation. The
 origin of this alphabet is a mystery, with very little known about its genesis. Some speculate that it is the language

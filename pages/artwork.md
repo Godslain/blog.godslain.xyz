@@ -1,16 +1,16 @@
 ---
-layout: page
+layout: default
 title: Artwork
 permalink: /artwork/
 type: artwork
 ---
 
-# Concept Art
+### Concept Art
 <img src="../img/concept_art/kheku.PNG" />
 <img src="../img/concept_art/nmonar.jpg" />
 <img src="../img/concept_art/temple_of_order_attempt3.jpg" />
 
-# Sketches
+### Sketches
 
 <img src="../img/sketches/kheku_sketch.jpg" />
 <img src="../img/sketches/enuuru1.jpg" />
