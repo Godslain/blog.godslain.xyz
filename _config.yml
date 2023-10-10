@@ -38,11 +38,13 @@ plugins:
 
 # Not necessary, but we can control the order this way
 header_pages:
-  - pages/devblog.html
+  
   - pages/lore.html
-  - pages/map.html
-  - pages/model.html
+  - pages/maps.html
+  - pages/music.html
   - pages/artwork.html
+  - pages/models.html
+  - pages/devblog.html
 
 # TODO: pagination
 show_excerpts: true
