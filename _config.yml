@@ -41,8 +41,8 @@ header_pages:
   
   - pages/lore.html
   - pages/maps.html
-  - pages/music.html
-  - pages/artwork.html
+  - pages/music.md
+  - pages/artwork.md
   - pages/models.html
   - pages/devblog.html
 
