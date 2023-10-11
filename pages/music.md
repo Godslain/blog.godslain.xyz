@@ -11,4 +11,4 @@ type: music
 
 ### War Drums
 
-<audio src="../music/war_drums.mp4" controls title="Title"></audio>
+<audio src="../music/war_drums.mp4" controls title="Title">
