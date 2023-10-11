@@ -7,8 +7,9 @@ type: music
 
 ### The Journey to Ianeth
 
-<audio src="../music/journey_to_ianeth.wav" controls title="Title">
+<audio src="../music/journey_to_ianeth.wav" controls title="The Journey to Ianeth">
 
 ### War Drums
 
-<audio src="../music/war_drums.mp3" controls title="Title">
+<audio src="../music/war_drums.mp3" controls title="War Drums">
+
