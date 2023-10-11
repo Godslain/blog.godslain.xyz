@@ -7,9 +7,14 @@ type: music
 
 ### The Journey to Ianeth
 
-<audio src="../music/journey_to_ianeth.wav" controls title="The Journey to Ianeth">
+<audio controls>
+  <source src="../music/journey_to_ianeth.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
 
 ### War Drums
 
-<audio src="../music/war_drums.mp3" controls title="War Drums">
-
+<audio controls>
+  <source src="../music/war_drums.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
