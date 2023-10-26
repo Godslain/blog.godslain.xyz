@@ -12,6 +12,14 @@ type: music
   Your browser does not support the audio element.
 </audio>
 
+### Carolan's Welcome by Tanner
+
+<audio controls>
+  <source src="../music/carolans_welcome_by_tanner.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
+
 ### War Drums
 
 <audio controls>
