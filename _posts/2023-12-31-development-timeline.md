@@ -11,9 +11,7 @@ excerpt: "For a whole year, we've been working heavily on terrain, in-game build
 
 For a whole year, we've been working heavily on terrain, in-game buildings, and the general design. [TLDR](#what-the-future-holds)
 
-This project started almost exactly a year ago when we were brainstorming with `Deniz` [Deniz's ArtStation](https://www.artstation.com/denizgur). We worked together for two months, with him making the 3D assets and me writing the code. Being smarter than myself, he decided to pursue other projects when we realized we were in over our heads. I, on the other hand, continued to develop a basic version of the game. At this point, we had a top-down camera, enemy AI, enemy patrols, and character levels. The playable character was a free asset from the Unity store, and for the buildings, I've used Deniz's previous work. You can find his assets for `Red City` here:
-
-[City Prototype](https://www.artstation.com/artwork/XgPgqy)
+This project started almost exactly a year ago when we were brainstorming with `Deniz` [Deniz's ArtStation](https://www.artstation.com/denizgur). We worked together for two months, with him making the 3D assets and me writing the code. Being smarter than myself, he decided to pursue other projects when we realized we were in over our heads. I, on the other hand, continued to develop a basic version of the game. At this point, we had a top-down camera, enemy AI, enemy patrols, and character levels. The playable character was a free asset from the Unity store, and for the buildings, I've used Deniz's previous work. You can find his assets for `Red City Prototype` [here](https://www.artstation.com/artwork/XgPgqy)
 
 ## Getting The Team Together
 
