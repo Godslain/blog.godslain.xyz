@@ -7,7 +7,7 @@ type:   devblog
 excerpt: "For a whole year, we've been working heavily on terrain, in-game buildings, and the general design."
 ---
 
-# 2022's Progress
+# 2023's Progress
 
 For a whole year, we've been working heavily on terrain, in-game buildings, and the general design. [TLDR](#what-the-future-holds)
 
@@ -47,4 +47,5 @@ In the following 2 months, we'll be adding quests and content to the game, re-do
 
 ## The Team
 
-We have `Astrid` working on assets & animations, `relik` working on development & level design, Me, working on development & everything else.
+We have 
+`Astrid` working on assets & animations, `relik` working on development & level design, `me`, working on development & everything else.
