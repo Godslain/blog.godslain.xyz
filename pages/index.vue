@@ -34,6 +34,6 @@ useHead({
   ],
 });
 const { data } = await useAsyncData("feed", () =>
-  queryContent("/posts").find()
+  queryContent('/posts').where({ type: { $eq: 'devblog' } }).find()
 );
 </script>
