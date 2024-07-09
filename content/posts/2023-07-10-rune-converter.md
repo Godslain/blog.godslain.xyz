@@ -7,6 +7,16 @@ type: devblog
 version: "1.00"
 ---
 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/img/75c75853585098ba19e32b3252de56c3878c0725.gif" alt="First GIF" style="width: 24%;" />
+  <img src="/img/697b023b-64a5-49a0-8059-27b963453fb1.gif" alt="Second GIF" style="width: 24%;" />
+  <img src="/img/gif.gif" alt="Third GIF" style="width: 24%;" />
+  <img src="/img/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif" alt="Fourth GIF" style="width: 24%;" />
+</div>
+
+
+
 I have created [Runes Converter](https://runes.redcity.ink) to convert runes to Latin and vice versa. After working on the runes for a few months, I finally felt ready to publish the language. If you would like to skip the details, click here: [TLDR](#tldr)
 
 # The Language and the Alphabets
