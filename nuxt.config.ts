@@ -1,4 +1,8 @@
 export default ({
+    target: 'static',
+    router: {
+    base: '/',
+  },
     modules: ['@nuxtjs/tailwindcss', '@nuxt/content', 'nuxt-icon'],
     content: {
         highlight: {
