@@ -39,7 +39,7 @@ Towards our 8th month, I stumbled across `relik`, who is an excellent programmer
 
 ## What The Future Holds
 
-Currently, we have a working quest system, skills, stats, inventory management, a leveling system, a saving system, an army controller which easily supports 80 mobs (e.g. 40 vs. 40), an open world terrain, and a city for shops & quest, and our first dungeon. We have [3 unique music tracks](https://redcity.ink/music/), extensive lore, a [conlang](https://redcity.ink/lore/) with a [runic alphabet](https://runes.redcity.ink) & a [custom font](https://runes.redcity.ink/fonts/S1-Regular.ttf), made specifically for `Red City`.
+Currently, we have a working quest system, skills, stats, inventory management, a leveling system, a saving system, an army controller which easily supports 80 mobs (e.g. 40 vs. 40), an open world terrain, and a city for shops & quest, and our first dungeon. We have [3 unique music tracks](https://godslain.xyz/music/), extensive lore, a [conlang](https://godslain.xyz/lore/) with a [runic alphabet](https://runes.godslain.xyz) & a [custom font](https://runes.godslain.xyz/fonts/S1-Regular.ttf), made specifically for `Red City`.
 
 In the following 2 months, we'll be adding quests and content to the game, re-doing the city terrain, adding creatures and NPCs. `Astrid` and `relik` will be sharing their previous progress on the game in a time-travel sort of manner. This blog will remain a safe space where we talk about experiments, failures, and whatever else we'd like to share.
 
