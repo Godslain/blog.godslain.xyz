@@ -1,2 +1,3 @@
-# redcity.ink
-Blog for the Red City Game. 
+# blog.godslain.xyz
+Devblog for Godslain: The Crimson Toll
+
