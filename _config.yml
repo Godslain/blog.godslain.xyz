@@ -42,7 +42,7 @@ header_pages:
   - pages/maps.md
   - pages/music.md
   - pages/artwork.md
-  - pages/models.md
+  # - pages/models.md
   - pages/devblog.md
 
 # TODO: pagination
