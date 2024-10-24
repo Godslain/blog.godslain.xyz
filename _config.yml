@@ -23,9 +23,9 @@
 title: Godslain - The Crimson Toll
 author:
   name: Demecate
-  email: ""
+  email: ''
 description: >-
-   © 2024 godslain.xyz
+  © 2024 godslain.xyz
 domain: godslain.xyz
 url: https://godslain.xyz
 
@@ -38,12 +38,11 @@ plugins:
 
 # Not necessary, but we can control the order this way
 header_pages:
-  
   - pages/lore.md
   - pages/maps.md
   - pages/music.md
   - pages/artwork.md
-  - pages/models.md
+  # - pages/models.md
   - pages/devblog.md
 
 # TODO: pagination
@@ -52,9 +51,8 @@ show_excerpts: true
 
 # Theme settings
 minima:
-  date_format: "%b %-d, %Y %H:%M"
+  date_format: '%b %-d, %Y %H:%M'
   # skin: dark
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
