@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Godslain: Beyond Two Years of Development  "
+date:   2025-03-31 00:00:00 +0100
+author: demecate
+type:   devblog
+---
+
+# Godslain: Beyond Two Years of Development  
+
+It’s been over **two years** now since we started development. Over that time, we’ve worked extensively on **open-world terrain** and have **finished our building assets**. We scrapped our initial character assets, **redesigned them**, and added **a variety of wearable and wieldable items**.  
+
+In **Godslain**, you can recruit **up to 20 allies**, engage in **army battles**, and explore **dungeons solo**. We’ve also introduced a **sand-skating** mechanic.  
+
+## Gameplay Development  
+
+We tried multiple approaches:  
+- A **top-down strategy controller**, allowing you to move other units around  
+- An **FPS controller**  
+- A **top-down + TPS controller**, inspired by *Dragon Age*  
+
+We’ve also added **12 new creatures (mobs)** with unique AI and skills (**excluding human mobs**).  
+
+## The Team & What's Next  
+
+For a **whole year**, we focused heavily on **terrain, in-game buildings, and the overall design** of *Godslain*.  
+
+Over the past year, our **small indie team** has made **significant progress**, from terrain and asset development to core gameplay mechanics like **quests, combat, and army control**.  
+
+What started as a **solo project** has grown with the help of talented collaborators, including **3D artist Astrid** and **programmer Relik**.  
+
+We settled on a **third-person perspective (TPS)** because it allows us to focus on **one controller and perfect it**. This also lets us develop **assets specifically designed for that look**.  
+
+### Moving Forward  
+
+Now, our focus is on **adding more content, expanding quests, and introducing new NPCs**.  
+Hello everyone, I am Sena and I have been working on 3D modeling, texture painting and animations for Godslain for over a year. The first character we designed is Khauldun —a significant character for the story. **Spoiler alert:** This depicts his warform. Below is a simple sketch by Yarscreative as a starting point of reference.
+
