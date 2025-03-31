@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Godslain: Beyond Two Years of Development  "
-date:   2025-03-31 00:00:00 +0100
+title: "Godslain: Beyond Two Years of Development"
+date: 2025-03-31 00:00:00 +0100
 author: demecate
-type:   devblog
+type: devblog
 ---
 
 # Godslain: Beyond Two Years of Development  
@@ -33,6 +33,4 @@ We settled on a **third-person perspective (TPS)** because it allows us to focus
 
 ### Moving Forward  
 
-Now, our focus is on **adding more content, expanding quests, and introducing new NPCs**.  
-Hello everyone, I am Sena and I have been working on 3D modeling, texture painting and animations for Godslain for over a year. The first character we designed is Khauldun —a significant character for the story. **Spoiler alert:** This depicts his warform. Below is a simple sketch by Yarscreative as a starting point of reference.
-
+Now, our focus is on **adding more content, expanding quests, and introducing new NPCs**.
