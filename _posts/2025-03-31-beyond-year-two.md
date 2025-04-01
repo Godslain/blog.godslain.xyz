@@ -6,11 +6,9 @@ author: demecate
 type: devblog
 ---
 
-# Godslain: Beyond Two Years of Development  
+It’s been over **two years** now since we started development. Over that time, we’ve worked extensively on the **open-world terrain** and have **finalized our building assets**. We scrapped our initial character assets, **redesigned them**, and added **a variety of wearable and wieldable items**.  
 
-It’s been over **two years** now since we started development. Over that time, we’ve worked extensively on **open-world terrain** and have **finished our building assets**. We scrapped our initial character assets, **redesigned them**, and added **a variety of wearable and wieldable items**.  
-
-In **Godslain**, you can recruit **up to 20 allies**, engage in **army battles**, and explore **dungeons solo**. We’ve also introduced a **sand-skating** mechanic.  
+In **Godslain: TCT**, you can recruit **up to 20 allies**, engage in **army battles**, and explore **dungeons solo**. We’ve also introduced a **sand-skating** mechanic.  
 
 ## Gameplay Development  
 
@@ -23,7 +21,7 @@ We’ve also added **12 new creatures (mobs)** with unique AI and skills (**excl
 
 ## The Team & What's Next  
 
-For a **whole year**, we focused heavily on **terrain, in-game buildings, and the overall design** of *Godslain*.  
+For a **whole year**, we focused heavily on **terrain, in-game buildings, and the overall design** of *Godslain:TCT*.  
 
 Over the past year, our **small indie team** has made **significant progress**, from terrain and asset development to core gameplay mechanics like **quests, combat, and army control**.  
 
@@ -33,4 +31,6 @@ We settled on a **third-person perspective (TPS)** because it allows us to focus
 
 ### Moving Forward  
 
-Now, our focus is on **adding more content, expanding quests, and introducing new NPCs**.
+Our current focus is on **adding more content, expanding quests, and introducing new NPCs**.
+
+
