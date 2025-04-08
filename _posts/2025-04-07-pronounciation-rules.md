@@ -30,8 +30,8 @@ type: devblog
 
 | Letter | Example     | Notes                                                                                                                                         | Runes |
 |--------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| 0      | Sa’en       | (Unused) Two syllables with a glottal stop. All other runes derive from this one. | <span class="runes">a</span>  |   
-| 1      | A, a        | Athnod (..)<br>The 'a' in 'father' or 'car'.<br>Open back unrounded vowel [ɑ]. |<span class="runes">b</span>                                                      |                                                   
+| 0      | Sa’en       | (Unused) Two syllables with a glottal stop. All other runes derive from this one. | <span class="runes">x</span>  |   
+| 1      | A, a        | Athnod (..)<br>The 'a' in 'father' or 'car'.<br>Open back unrounded vowel [ɑ]. |<span class="runes">a</span>                                                      |                                                   
 |2      | ae          | Aedir (...)<br>Pronounced as "a" followed by "e" in two distinct syllables.<br>Diphthong or hiatus [a.e], depending on speaker articulation. | <span class="runes">Æ</span> |
 | 3      | B, b        | The b in brown.<br>Voiced bilabial stop [b].                                                                                                 |<span class="runes">b</span> |
 | 5      | D, d        | The d in death.<br>voiced dental stop [d]. |  <span class="runes">d</span> |
