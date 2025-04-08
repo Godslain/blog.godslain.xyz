@@ -37,7 +37,7 @@ Although old language itself is lost, names of people, places and artifacts of s
 
 | Number | Letter | Example Word | Description | Rune |
 |--------|--------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| 0      | Sa’en | (Unused) | Two syllables with a glottal stop. All other runes derive from this one. Glyph of the first being. | <span class="runes">x</span>  |   
+| 0      | (Unused) | Sa'en | Two syllables with a glottal stop. All other runes derive from this one. Glyph of the first being. | <span class="runes">x</span>  |   
 | 1      | A, a        | Athnod (..)| <br>The 'a' in 'father' or 'car'.<br>Open back unrounded vowel [ɑ]. |<span class="runes">a</span>                                                      |                                                   
 |2      | AE, ae          | Aedir (_.)| <br>Pronounced as "a" followed by "e" in two distinct syllables.<br>Diphthong or hiatus [a.e], depending on speaker articulation. | <span class="runes">Æ</span> |
 | 3      | B, b        | Bupeth (..) | The b in brown.<br>Voiced bilabial stop [b].                                                                                                 |<span class="runes">b</span> |
