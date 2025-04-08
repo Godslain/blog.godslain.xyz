@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "The Runic Script"
+title: "The Old Tongue vs. The New"
 date: 2025-04-07 00:00:00 +0100
 author: demecate
 type: devblog
 draft: false
 ---
+Here you'll find all forty runes of the Old Tongue with their corresponding letters in the new tongue along with their pronounciation notes. You will also find the usage of different accents.
+
+The <b>Old Tongue</b>, once carved into stone by the gods and the first mortals, is largely forgotten as a spoken language. While both tongues use the same sounds, they differ writing: The <b>Old Tongue</b> uses a <b>runic alphabet </b> while the <b>New Tongue</b> relies on letters. and the new script uses letters.
+
+Although the old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using the letters of the New Tongue.
 
 <style>
 @font-face {
@@ -23,15 +28,6 @@ draft: false
   display: block;
 }
 </style>
-
-
-# The Old Tongue vs. The New
-
-Here you'll find all forty runes of the Old Tongue with their corresponding letters in the new tongue along with their pronounciation notes. You will also find the usage of different accents.
-
-The Old Tongue, once carve into stone by the gods and the first mortals, is largely forgotten as a spoken language. While both tongues use the same sounds, they differ writing: The Old Tongue uses a runic alphabet while the New Tongue relies on letters. and the new script uses letters.
-
-Although old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using the letters of the New Tongue.
 
 ## Table 1: Letters and Runes
 
@@ -57,7 +53,7 @@ Although old language itself is lost, names of people, places and artifacts of s
 | 18     | KH, kh          | Khayldyn (._.) | <br>Always the c in “card”. Voiceless velar plosive[k].<br>[kaːr] vs [kæːr]                                                    | <span class="runes">;</span>      |
 | 19     | L, l        | Laenu (_.) | <br>"l" in "lake" (soft) or "lard" (hard). Voiced alveolar lateral approximant [l].                                                | <span class="runes">l</span>      |
 | 20     | LHÖ lh          | Lhâradon (_..) | <br>Hard “l,” like in "lament".<br>[l'ha.ra] vs []                                                                             |   <span class="runes">&lt;</span>   |
-| 21     | M, m        | The m in moral.<br>Voiced bilabial nasal [m].                                                                                                |   <span class="runes">m</span>    |
+| 21     | M, m        | Mahha (..) | The m in moral.<br>Voiced bilabial nasal [m].                                                                                                |   <span class="runes">m</span>    |
 | 22     | N, n           | Noolenoei (_.._) | <br>The n in name. Hard n by default.                                                                                        |     <span class="runes">n</span>  |
 | 23     | NH, nh         | Nhâden (_.) | <br>Always the hard “n” in “note”.                                                                                                |    <span class="runes">&gt;</span>|
 | 24     | Nâ, nâ          | Puunâr (_ _) | <br>N with a long a. Becomes "ny" sound. Predorsal nasal [n̺].     | <span class="runes">ñ</span>    |
