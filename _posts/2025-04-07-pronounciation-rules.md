@@ -9,7 +9,7 @@ type: devblog
 <style>
 @font-face {
   font-family: 'RunicScript';
-  src: url('../assets/fonts/Godslain-ancient-runic.ttf') format('truetype');
+  src: url('https://blog.godslain.xyz/assets/fonts/Godslain-ancient-runic.ttf') format('truetype');
   /* Alternative remote source:
   src: url('https://runes.godslain.xyz/fonts/Godslain-ancient-runic.ttf') format('truetype');
   */
@@ -69,7 +69,7 @@ type: devblog
 | 37     | V, v        | Vilnnis (..)<br>The v in vessel. Voiced labiodental fricative [v].                                                                           |    <span class="runes">v</span>      |
 | 38     | V̊, v̊ / W,w | Drev̊eth (..)<br>The w in west. Voiceless labio-velar approximant [ẘ]. Used interchangeably.                                                |  <span class="runes">w</span>        |
 | 39 |       Y, y      | The y in yes.<br>Palatal approximant [j].                                                                                                    | <span class="runes">y</span>         |
-| 40   | Z           | The z in zebra.<br>Voiced alveolar fricative [z].                                                                                            | <span class="runes">z</span>         |
+| 40   | Z           | The z in zebra.<br>Voiced alveolar fricative [z]. | <span class="runes">z</span> |
 
 ## Table 2: Pronunciation Rules (New Script)
 | Consonant Shifts | Example   | Notes |
@@ -79,7 +79,7 @@ type: devblog
 | 2                | Aedir     | ae is its own rune. Diphthong [a.e]. Distinct from ai.                                                               |
 | 3                | Naira     | ai is its own rune. Diphthong [aɪ], "ride". Distinct from ei.                                                        |
 | 4                | Einar     | ei is its own rune. Diphthong [eɪ], "say". Distinct from ai.                                                         |
-| 5                | Elnâ      | nâ is its own rune. Pronounced like “nya” in canyon.                                                                 |
+| 5                | Elnâ      | nâ is its own rune. Pronounced like "nya" in canyon.                                                                 |
 
 
 ## Table 3: Vowel and Diphthong Sounds
