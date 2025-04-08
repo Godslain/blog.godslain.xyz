@@ -64,22 +64,22 @@ type: devblog
 | 32     | dh          | İdhis (..)<br>Same sound as "th" in then. Voiced dental fricative [ð].                                                                       |     <span class="runes">4</span>   |
 | 33     | th          | Kelleth (..)<br>The th in think. Voiceless dental fricative [θ].                                                                             |     <span class="runes">3</span>  |
 | 34     | U, u, û, Û     | Unûldun (._.)<br>The u in rule. Long close back rounded vowel[u].                                                                     |    <span class="runes">u</span>   |
-| 35     | I, ı        | Sı’ıgta (…)<br>The ı in kırmızı(Turkish). Close back unrounded vowel [ɯ][ɯ].                                                                             |     <span class="runes">ı</span>  |
-| 36     | Ü, ü        | Ÿrdÿn (..)<br>The ü in über. Close front unrounded vowel [y].                               ü                                                    | <span class="runes">ü</span>      |
+| 35     | I, ı        | Sı’ıgta (…)<br>The ı in kırmızı(Turkish). Close back unrounded vowel [ɯ].   |     <span class="runes">ı</span>  |
+| 36     | Ü, ü        | Ÿrdÿn (..)<br>The ü in über. Close front unrounded vowel [y].     | <span class="runes">ü</span>      |
 | 37     | V, v        | Vilnnis (..)<br>The v in vessel. Voiced labiodental fricative [v].                                                                           |    <span class="runes">v</span>      |
 | 38     | V̊, v̊ / W,w | Drev̊eth (..)<br>The w in west. Voiceless labio-velar approximant [ẘ]. Used interchangeably.                                                |  <span class="runes">w</span>        |
 | 39 |       Y, y      | The y in yes.<br>Palatal approximant [j].                                                                                                    | <span class="runes">y</span>         |
 | 40   | Z           | The z in zebra.<br>Voiced alveolar fricative [z]. | <span class="runes">z</span> |
 
 ## Table 2: Pronunciation Rules (New Script)
-| Consonant Shifts | Example   | Notes |
-|------------------|-----------|-------|
-| 0                | Nenma     | nm → mm. "nm" is pronounced as mm (nasal m sound).                                                                  |
-| 1                | Vilnnis   | nn → n. "nn" is pronounced the same as a single n.                                                                   |
-| 2                | Aedir     | ae is its own rune. Diphthong [a.e]. Distinct from ai.                                                               |
-| 3                | Naira     | ai is its own rune. Diphthong [aɪ], "ride". Distinct from ei.                                                        |
-| 4                | Einar     | ei is its own rune. Diphthong [eɪ], "say". Distinct from ai.                                                         |
-| 5                | Elnâ      | nâ is its own rune. Pronounced like "nya" in canyon.                                                                 |
+| Consonant Shifts | Example   | Notes                                                          |
+|------------------|-----------|----------------------------------------------------------------|
+| 0                | Nenma     | nm &rarr; mm. "nm" is pronounced as mm (nasal m sound).             |
+| 1                | Vilnnis   | nn &rarr; n. "nn" is pronounced the same as a single n.             |
+| 2                | Aedir     | ae is its own rune. Diphthong [a.e]. Distinct from ai.         |
+| 3                | Naira     | ai is its own rune. Diphthong [aɪ], "ride". Distinct from ei.  |
+| 4                | Einar     | ei is its own rune. Diphthong [eɪ], "say". Distinct from ai.   |
+| 5                | Elnâ      | nâ is its own rune. Pronounced like "nya" in canyon.           |
 
 
 ## Table 3: Vowel and Diphthong Sounds
