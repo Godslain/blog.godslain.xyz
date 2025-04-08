@@ -49,10 +49,10 @@ type: devblog
 | 17     | k           | Kelleth (..)<br>“c” in “cat”. Voiceless velar plosive [k].                                                                                   |  <span class="runes">k</span>    |
 | 18     | kh          | Khayldyn (._.)<br>Always the c in “card”. Voiceless velar plosive[k].<br>[kaːr] vs [kæːr]                                                    | <span class="runes">;</span>      |
 | 19     | L, l        | Laenu (_.)<br>"l" in "lake" (soft) or "lard" (hard). Voiced alveolar lateral approximant [l].                                                | <span class="runes">l</span>      |
-| 20     | lh          | Lhâradon (_..)<br>Hard “l,” like in "lament".<br>[l'ha.ra] vs []                                                                             |   <span class="runes"></span>    |
+| 20     | lh          | Lhâradon (_..)<br>Hard “l,” like in "lament".<br>[l'ha.ra] vs []                                                                             |   <span class="runes">&lt;</span>   |
 | 21     | M, m        | The m in moral.<br>Voiced bilabial nasal [m].                                                                                                |   <span class="runes">m</span>    |
 | 22     | n           | Noolenoei (_.._)<br>The n in name. Hard n by default.                                                                                        |     <span class="runes">n</span>  |
-| 23     | nh          | Nhâden (_.)<br>Always the hard “n” in “note”.                                                                                                |    <span class="runes">></span>   |
+| 23     | nh          | Nhâden (_.)<br>Always the hard “n” in “note”.                                                                                                |    <span class="runes">&gt;</span>|
 | 24     | nâ          | Puunâr (_ _)<br>N with a long a. Becomes "ny" sound. Predorsal nasal [n̺].     | <span class="runes">ñ</span>    |
 | 25     | ŋ, ɲ        | Eɲgol (..)<br>The ng sound in song or long. Velar nasal [ŋ].                                                                                 |    <span class="runes">ŋ</span>  |
 | 26     | O, o        | Oruudun (._.)<br>The o in home. Mid back rounded vowel [o].                                                                                  |     <span class="runes">o</span>  |
