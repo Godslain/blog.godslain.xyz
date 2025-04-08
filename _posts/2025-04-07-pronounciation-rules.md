@@ -25,11 +25,13 @@ draft: false
 </style>
 
 
-# The Old Script vs. The New
+# The Old Tongue vs. The New
 
-Here you'll find all letters & runes of the old script with their corresponding letters in the new script along with their pronounciation notes. You will also find the usage of different accents.
+Here you'll find all forty runes of the Old Tongue with their corresponding letters in the new tongue along with their pronounciation notes. You will also find the usage of different accents.
 
-The old script is what the gods and the first mortal races carved on stone. It is also known as the forgotten scripture, as many today do not remember it. While both scripts use the same sounds, they differ in alphabet. The old script is a runic script and the new script uses letters.
+The Old Tongue, once carve into stone by the gods and the first mortals, is largely forgotten as a spoken language. While both tongues use the same sounds, they differ writing: The Old Tongue uses a runic alphabet while the New Tongue relies on letters. and the new script uses letters.
+
+Although old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using the letters of the New Tongue.
 
 ## Table 1: Letters and Runes
 
