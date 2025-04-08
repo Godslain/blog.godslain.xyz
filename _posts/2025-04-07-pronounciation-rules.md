@@ -49,7 +49,7 @@ type: devblog
 | 17     | k           | Kelleth (..)<br>“c” in “cat”. Voiceless velar plosive [k].                                                                                   |  <span class="runes">k</span>    |
 | 18     | kh          | Khayldyn (._.)<br>Always the c in “card”. Voiceless velar plosive[k].<br>[kaːr] vs [kæːr]                                                    | <span class="runes">;</span>      |
 | 19     | L, l        | Laenu (_.)<br>"l" in "lake" (soft) or "lard" (hard). Voiced alveolar lateral approximant [l].                                                | <span class="runes">l</span>      |
-| 20     | lh          | Lhâradon (_..)<br>Hard “l,” like in "lament".<br>[l'ha.ra] vs []                                                                             |   <span class="runes"><</span>    |
+| 20     | lh          | Lhâradon (_..)<br>Hard “l,” like in "lament".<br>[l'ha.ra] vs []                                                                             |   <span class="runes"></span>    |
 | 21     | M, m        | The m in moral.<br>Voiced bilabial nasal [m].                                                                                                |   <span class="runes">m</span>    |
 | 22     | n           | Noolenoei (_.._)<br>The n in name. Hard n by default.                                                                                        |     <span class="runes">n</span>  |
 | 23     | nh          | Nhâden (_.)<br>Always the hard “n” in “note”.                                                                                                |    <span class="runes">></span>   |
@@ -72,8 +72,8 @@ type: devblog
 | 40   | Z           | The z in zebra.<br>Voiced alveolar fricative [z].                                                                                            | <span class="runes">z</span>         |
 
 ## Table 2: Pronunciation Rules (New Script)
-| Consonant Shifts | Example   | Notes                                                                                                                |
-|------------------|-----------|----------------------------------------------------------------------------------------------------------------------|
+| Consonant Shifts | Example   | Notes |
+|------------------|-----------|-------|
 | 0                | Nenma     | nm → mm. "nm" is pronounced as mm (nasal m sound).                                                                  |
 | 1                | Vilnnis   | nn → n. "nn" is pronounced the same as a single n.                                                                   |
 | 2                | Aedir     | ae is its own rune. Diphthong [a.e]. Distinct from ai.                                                               |
