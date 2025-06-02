@@ -12,5 +12,5 @@ type: maps
 
 ### Map of Isai
 
-![Map of Isai](/img/maps/map_of_Isai.jpg)
+![Map of Isai](/img/maps/godslain_rpg_map.png)
 
