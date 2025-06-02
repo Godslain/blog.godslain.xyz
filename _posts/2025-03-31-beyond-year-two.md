@@ -25,7 +25,7 @@ For a **whole year**, we focused heavily on **terrain, in-game buildings, and th
 
 Over the past year, our **small indie team** has made **significant progress**, from terrain and asset development to core gameplay mechanics like **quests, combat, and army control**.  
 
-What started as a **solo project** has grown with the help of talented collaborators, including **3D artist Astrid** and **programmer Relik**.  
+What started as a **solo project** has grown with the help of talented collaborators, including **3D artist Astrid** and **programmer relik**.  
 
 We settled on a **third-person perspective (TPS)** because it allows us to focus on **one controller and perfect it**. This also lets us develop **assets specifically designed for that look**.  
 
