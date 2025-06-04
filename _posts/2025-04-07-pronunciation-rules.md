@@ -8,9 +8,9 @@ draft: false
 ---
 Here you'll find all forty runes of the Old Tongue with their corresponding letters in the new tongue along with their pronounciation notes. You will also find the usage of different accents.
 
-The <b>Old Tongue</b>, once carved into stone by the gods and the first mortals, is largely forgotten as a spoken language. While both tongues use the same sounds, they differ writing: The <b>Old Tongue</b> uses a <b>runic alphabet </b> while the <b>New Tongue</b> relies on letters. and the new script uses letters.
+The <b>Old Tongue</b>, once carved into stone by the gods and the first mortals, is largely forgotten as a spoken language. What is spoken today is The New Tongue. The <b>Old Script</b> is a <b>runic alphabet </b> while the <b>New Script</b> relies on letters and accents.
 
-Although the old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using the letters of the New Tongue.
+Although the old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using the <b>New Script</b>.
 
 <style>
 @font-face {
@@ -101,17 +101,12 @@ Although the old language itself is lost, names of people, places and artifacts 
 
 ## Invalid Accent and Diacritic Usage
 
-1. The Accent Collision Rule
-While the diacritics (˚) and (^) can exist on two consecutive letters, a letter will never carry both a circumflex (^) and an acute accent (ˊ). Such a combination is considered invalid in the script’s orthography.
+- While the diacritics (˚) and (^) can exist on two consecutive letters, a letter will never carry both a circumflex (^) and an acute accent (ˊ). Such a combination is considered invalid in the script’s orthography.
 
-2. Double Accents Across Diphthongs
-Only one accent may be applied to a diphthong. Accents cannot be stacked across a diphthong, ensuring that each accented syllable receives only one accent.
+- Only one accent may be applied to a diphthong. Accents cannot be stacked across a diphthong, ensuring that each accented syllable receives only one accent.
 
-3. Accent Placement on Consonants and Vowels
-The acute accent (ˊ) can be placed on consonants. When placed on a consonant, the acute accent (ˊ) suggests stress. In order to stress a vowel, a circumflex (^) is placed on the vowel. This always elongates the vowel as well as stressing it.
+- The acute accent (ˊ) can be placed on consonants. When placed on a consonant, the acute accent (ˊ) suggests stress. In order to stress a vowel, a circumflex (^) is placed on the vowel. This always elongates the vowel as well as stressing it.
 
-4. Glottal Stop (’) Overriding Softening
-If a glottal stop (’) is present, it will override the softening effect of the circumflex (^). For instance, in a word like Lâ’ân, the glottal stop (’) takes precedence over the softening effect of the circumflex (^) on the second vowel, ensuring that the consonant is not softened as it would typically be.
+- If a glottal stop (’) is present, it will override the softening effect of the circumflex (^). For instance, in a word like Lâ’ân, the glottal stop (’) takes precedence over the softening effect of the circumflex (^) on the second vowel, ensuring that the consonant is not softened as it would typically be.
 
-5. Invalid Diacritic Stacking
-A letter can never carry both a circumflex (^) and an acute accent (ˊ) simultaneously. Combinations like Â’ê are not allowed in the script and will be considered incorrect orthographically.
+- A letter can never carry both a circumflex (^) and an acute accent (ˊ) simultaneously. Combinations like Â’ê are not allowed in the script and will be considered incorrect.
