@@ -8,9 +8,9 @@ draft: false
 ---
 Here you'll find all forty runes of the Old Tongue with their corresponding letters in the new tongue along with their pronounciation notes. You will also find the usage of different accents.
 
-The <b>Old Tongue</b>, once carved into stone by the gods and the first mortals, is largely forgotten as a spoken language. What is spoken today is The New Tongue. The <b>Old Script</b> is a <b>runic alphabet </b> while the <b>New Script</b> relies on letters and accents.
+The <b>Old Tongue</b>, once carved into stone by the gods and the first mortals, is largely forgotten as a spoken language. What is spoken today is  <br>The New Tongue</br>. The <b>Old Script</b> is a <b>runic alphabet </b> while The <b>New Script</b> relies on letters and accents.
 
-Although the old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using the <b>New Script</b>.
+Although the old language itself is lost, names of people, places and artifacts of significance have been passed down through generations, keeping their original forms. Today, these special names are represented using The New Script.
 
 <style>
 @font-face {
